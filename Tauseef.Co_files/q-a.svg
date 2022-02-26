@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="90" viewBox="0 0 124 90">
+  <defs>
+    <clipPath id="clip-q-a">
+      <rect width="124" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="q-a" clip-path="url(#clip-q-a)">
+    <rect width="124" height="90" fill="rgba(255,255,255,0)"/>
+    <g id="q-a-2" data-name="q-a" transform="translate(-864 -1092)" style="isolation: isolate">
+      <path id="Path_69" data-name="Path 69" d="M691.26,811.523v18.883a2.361,2.361,0,0,1-2.36,2.36h-4.721a2.36,2.36,0,0,1-2.36-2.36V813.883a2.36,2.36,0,0,1,2.36-2.36h7.081a9.442,9.442,0,0,0,9.442-9.441v-2.36a4.721,4.721,0,0,1,9.441,0v11.8h7.081a4.721,4.721,0,0,1,4.721,4.721l-2.36,11.8c-.7,2.975-2.622,4.9-4.721,4.721H698.342a7.081,7.081,0,0,1-7.081-7.081" transform="translate(238.274 299)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_28" data-name="Line 28" x2="34.279" transform="translate(908.518 1145.133)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_29" data-name="Line 29" x2="39.757" transform="translate(908.455 1154.191)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_30" data-name="Line 30" x2="26.061" transform="translate(908.584 1164.028)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_70" data-name="Path 70" d="M719.154,861.52v12.243a8.753,8.753,0,0,1-8.75,8.755H657.9a8.752,8.752,0,0,1-8.75-8.755V821.23a8.752,8.752,0,0,1,8.75-8.755H671.8" transform="translate(241.846 297.481)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

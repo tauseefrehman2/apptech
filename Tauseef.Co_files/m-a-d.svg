@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="124" height="90" viewBox="0 0 124 90">
+  <defs>
+    <clipPath id="clip-m-a-d">
+      <rect width="124" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="m-a-d" clip-path="url(#clip-m-a-d)">
+    <rect width="124" height="90" fill="rgba(255,255,255,0)"/>
+    <g id="m-a-d-2" data-name="m-a-d">
+      <path id="Path_54" data-name="Path 54" d="M1536.94,197.241V160.705a4.61,4.61,0,0,1,4.594-4.625h42.811a4.61,4.61,0,0,1,4.594,4.625v64.75a4.61,4.61,0,0,1-4.594,4.625h-14.273" transform="translate(-1495.447 -154.08)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_7" data-name="Line 7" x2="12" transform="translate(61 8)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line id="Line_8" data-name="Line 8" y2="0.046" transform="translate(69.247 61.159)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_55" data-name="Path 55" d="M1536.022,224.14a3.639,3.639,0,0,1,7.072,0,3.638,3.638,0,0,0,5.431,2.25,3.641,3.641,0,0,1,5,5,3.639,3.639,0,0,0,2.248,5.429,3.639,3.639,0,0,1,0,7.072,3.638,3.638,0,0,0-2.25,5.431,3.641,3.641,0,0,1-5,5,3.639,3.639,0,0,0-5.429,2.248,3.639,3.639,0,0,1-7.072,0,3.638,3.638,0,0,0-5.431-2.25,3.641,3.641,0,0,1-5-5,3.639,3.639,0,0,0-2.248-5.429,3.639,3.639,0,0,1,0-7.072,3.638,3.638,0,0,0,2.25-5.431,3.641,3.641,0,0,1,5-5A3.636,3.636,0,0,0,1536.022,224.14Z" transform="translate(-1490.56 -171.356)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="6.333" cy="6.333" r="6.333" transform="translate(42.665 62.67)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <path id="Path_75" data-name="Path 75" d="M-6,0H28.718V14.727H-6Z" transform="translate(56.005 16.287)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-width="3"/>
+      <path id="Path_76" data-name="Path 76" d="M-6,0H28.718" transform="translate(56.005 40.571)" fill="none" stroke="#1f9cd8" stroke-linecap="round" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
