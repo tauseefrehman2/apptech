@@ -64,7 +64,10 @@ html {
 .nav-wrapper {
   padding: 20px 0;
 }
-
+.logoimg{
+  border-radius: 8px;
+  
+} 
 .nav-wrapper .nav-wrap .contact-wrap .contact a {
   display: block;
   position: relative;
